@@ -30,6 +30,7 @@ namespace StudentManagement
                 new Student{ Id =11, Name = "Tuat",  Age = 21},
                 new Student{ Id =12, Name = "Hoi",   Age = 22},
                 new Student{ Id =13,  Name = "An",    Age = 22},
+                new Student{ Id =13,  Name = "Anh",    Age = 13},
             };
 
             while (true)
